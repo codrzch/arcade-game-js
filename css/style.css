@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    margin-top: 5%;
+    background-image: url('../images/texture-background.jpeg');
+}
+
+h1 {
+  font-family: impact;
+  background-color: white;
+  border-style: dashed;
+}
